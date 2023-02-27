@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SimplifiedChineseDeepRacer
 // @namespace    SimplifiedChineseDeepRacer
-// @version      0.1
+// @version      1.0.0
 // @description  Translates DeepRacer console into Simplified Chinese
 // @author       jdaped
 // @match        https://*.console.aws.amazon.com/deepracer/*
@@ -247,7 +247,6 @@ setTimeout(function () {
 		[/Sponsored users/gi, '赞助用户'],
 		[/Current usage/gi, '当前使用情况'],
 		[/Storage used/gi, '使用的存储空间'],
-		[/Project ideas:/gi, '项目思路：'],
 		[/Championship cup/gi, '冠军杯'],
 		[/Digital rewards/gi, '数字奖励'],
 		[/Community race/gi, '社区竞赛'],
@@ -260,6 +259,7 @@ setTimeout(function () {
 		[/10 minutes ·/gi, '10分钟 ·'],
 		[/30 minutes ·/gi, '30分钟 ·'],
 		[/Notebook lab/gi, '笔记本实验室'],
+		[/Project ideas/gi, '项目思路'],
 		[/Create a race/gi, '建比赛可'],
 		[/Race location/gi, '比赛地点'],
 		[/Racing League/gi, '赛车联盟'],
