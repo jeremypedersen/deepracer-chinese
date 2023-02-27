@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SimplifiedChineseDeepRacer
 // @namespace    SimplifiedChineseDeepRacer
-// @version      1.0.2
+// @version      1.0.3
 // @description  Translates DeepRacer console into Simplified Chinese
 // @author       jdaped
 // @match        https://*.console.aws.amazon.com/deepracer/*
