@@ -1,6 +1,7 @@
 # deepracer-chinese
 
 **Last Tested:** 2023-02-27
+
 **Supported Browsers:**
 - Google Chrome
 
